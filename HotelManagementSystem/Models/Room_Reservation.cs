@@ -17,6 +17,7 @@ namespace HotelManagementSystem.Models
         [Required]
         public int Reservation_No_of_Guests { get; set; }
 
+        //For booking 
         public Boolean Reservation_Status { get; set; }
 
         [Required]

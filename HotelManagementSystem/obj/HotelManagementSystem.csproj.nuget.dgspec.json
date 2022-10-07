@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\banik\\Desktop\\ADAPT_2\\HotelManagementSystem_With Foreign Key_Angular_2\\HotelManagementSystem_With Foreign Key\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\project\\HotelManagementSystem\\HotelManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\banik\\Desktop\\ADAPT_2\\HotelManagementSystem_With Foreign Key_Angular_2\\HotelManagementSystem_With Foreign Key\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\project\\HotelManagementSystem\\HotelManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banik\\Desktop\\ADAPT_2\\HotelManagementSystem_With Foreign Key_Angular_2\\HotelManagementSystem_With Foreign Key\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\project\\HotelManagementSystem\\HotelManagementSystem.csproj",
         "projectName": "HotelManagementSystem",
-        "projectPath": "C:\\Users\\banik\\Desktop\\ADAPT_2\\HotelManagementSystem_With Foreign Key_Angular_2\\HotelManagementSystem_With Foreign Key\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\banik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banik\\Desktop\\ADAPT_2\\HotelManagementSystem_With Foreign Key_Angular_2\\HotelManagementSystem_With Foreign Key\\HotelManagementSystem\\HotelManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\project\\HotelManagementSystem\\HotelManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\project\\HotelManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\banik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
